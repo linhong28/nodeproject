@@ -1,0 +1,17 @@
+{
+  "name": "myapp",
+  "description": "Simple test app",
+  "main": "app.js",
+  "authors": [
+    "LH"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
